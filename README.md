@@ -1,6 +1,8 @@
-# Ahoj, já jsem Ondra 👋
+# Ahoj, já jsem Patrik 👋
 
-Student a začínající vývojář z Česka. Baví mě stavět **webové aplikace na míru**, hrát si s **realtime funkcemi** a zkoušet věci kolem **kyberbezpečnosti a kryptografie**. Většinu projektů tady jsem si napsal sám od nuly, abych se naučil, jak to celé funguje – od backendu přes databázi až po UI.
+Student a začínající vývojář z Česka. Baví mě stavět **webové aplikace na míru**, hrát si s **realtime funkcemi** a zkoušet věci kolem **kyberbezpečnosti a kryptografie**. Většinu projektů realizovala umělá inteligence **ale** nejsem jen kluk co by vše hazel do AI a nic neuměl.
+
+v roce 2026 jsem vyhrál **2**. místo v krajském kole a následně **3**. místo v republikovém na olympiádách v Machine learningu (Česká AI olympiáda) a postupuju na mezinárodní soutěž **CEOAI** a celosvětovou soutěž **IOAI**.
 
 ## 🔧 Čím se probírám
 
